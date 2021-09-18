@@ -1,0 +1,56 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+}
+
+div.mainDiv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+div#content{
+    margin-top: 10px;
+}
+
+span{
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+
+.listContainer{
+    margin-top: 10px;
+}
+
+svg{
+    height: 13px;
+}
+
+input{
+    width: 150px;
+    height:23px;
+}
+
+button{
+    padding: 4px;
+}
+
+button#btn{
+    margin-top: 10px;
+
+}
+
+.btns{
+    padding: 1px;
+    margin-right: 5px;
+}
+
+.text{
+    display: block;
+    text-align: center;
+}
+
+.save{
+    display: inline-block;
+}
+
